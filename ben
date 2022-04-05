@@ -1,3 +1,0 @@
-setTimeout(() => {
-alert('trial 10 hour end');
-}, 1000/60);
